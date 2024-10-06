@@ -1,6 +1,4 @@
-# Diamond-Prediction
-
-# Project: Diamond Price Prediction
+# Diamond Price Prediction
 
 This project focuses on predicting diamond prices based on various features such as cut, color, clarity, and physical dimensions using multiple machine learning models. The project uses models like Linear Regression, Decision Trees, Random Forests, and XGBoost to predict diamond prices and compare the performance of each model.
 
